@@ -7,6 +7,6 @@
     <list>
         <mapping class="com.example.hualuoweather.db.Province" />
         <mapping class="com.example.hualuoweather.db.City" />
-        <mapping class="com.example.hualuoweather.db.Country" />
+        <mapping class="com.example.hualuoweather.db.County" />
     </list>
 </litepal>
